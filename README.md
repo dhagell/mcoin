@@ -1,6 +1,6 @@
 # M-AgnosticCoin
 
-Repository for the agnostic mcoin implementation: https://dhagell.github.io/
+Repository for the agnostic mcoin implementation: https://github.com/dhagell/m-blockchain
 Based on the repository for the naivecoin tutorial: https://lhartikk.github.io/
 
 ```
