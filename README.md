@@ -1,6 +1,7 @@
-# Naivecoin
+# M-AgnosticCoin
 
-The repository for the naivecoin tutorial: https://lhartikk.github.io/
+Repository for the agnostic mcoin implementation: https://dhagell.github.io/
+Based on the repository for the naivecoin tutorial: https://lhartikk.github.io/
 
 ```
 npm install
